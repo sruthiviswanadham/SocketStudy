@@ -1,7 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
 
-##NAME: VISWANADHAM VENKATA SAI SRUTHI
-##REG NO: 212223100061
+## NAME: VISWANADHAM VENKATA SAI SRUTHI
+## REG NO: 212223100061
 
 ## Aim: 
 To perform a study on Socket Programming
